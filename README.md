@@ -5,7 +5,7 @@ This is a simple frontend project created using HTML, CSS, and JavaScript.
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view the project](https://rajat-portfolio.netlify.app)
+👉 [Click here to view the project](https://webworks-by-rajat.netlify.app/)
 
 ---
 
