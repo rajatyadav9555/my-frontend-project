@@ -1,38 +1,37 @@
-\# My Frontend Project
+# 💻 My Frontend Portfolio Project
 
+This is a simple frontend project created using HTML, CSS, and JavaScript.
 
+---
 
-\## 🛠️ Tech Used:
+## 🔗 Live Demo
+👉 [Click here to view the project](https://rajat-portfolio.netlify.app)
 
-\- HTML
+---
 
-\- CSS
+## 🚀 Features
+- Responsive layout
+- Smooth scrolling
+- Clean UI/UX
+- Contact section
 
-\- JavaScript (if used)
+---
 
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
+---
 
-\## 📄 Description:
+## 📷 Screenshot
+(You can add an image here later)
 
-This is a frontend web development project made as part of learning and practice. It showcases my skills in creating responsive and user-friendly web designs.
+---
 
+## 📁 Project Structure
 
+---
 
-\## 🎯 Purpose:
-
-\- For practice
-
-\- For internships/job portfolio
-
-
-
-\## 🔗 Live Preview (if deployed):
-
-\[Add Netlify / GitHub Pages link here later]
-
-
-
-\## 📸 Screenshot:
-
-!\[Screenshot](screenshot.png)
-
+## 📞 Contact
+Created by [Rajat Yadav](mailto:rajatyadav9555@gmail.com)
