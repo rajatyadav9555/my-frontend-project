@@ -1,28 +1,42 @@
-# 💻 My Frontend Portfolio Project
+# 💻 Rajat Kumar Yadav -  Personal Portfolio
 
-This is a simple frontend project created using HTML, CSS, and JavaScript.
-
+Welcome to my personal portfolio website! I am a passionate B.Tech graduate in Computer Science with interests in Cyber Security and Web Development. This is a simple and clean HTML/CSS-based static portfolio that showcases my skills and background.
 ---
 
-## 🔗 Live Demo
-👉 [Click here to view the project](https://webworks-by-rajat.netlify.app/)
+## 🔗 Live Site
+👉 [Click here to view my Personal Porfolio on Netlify](https://webworks-by-rajat.netlify.app/)
 
 ---
 
 ## 🚀 Features
-- Responsive layout
-- Smooth scrolling
+- Clean and modern layout
+- Includes photo, contact info, and career objective
+- Skills in Web Dev and Cyber Security
+- Mobile responsive and lightweight
 - Clean UI/UX
-- Contact section
+
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+- HTML, CSS, JavaScript
+- Python, Kali Linux
+
+📜 Education
+
+B.Tech in Computer Science
 
 ---
+
+🧰 Tools Used
+
+HTML & CSS
+
+Google Fonts
+
+Git & GitHub for version control
+
+Netlify for hosting
 
 ## 📷 Screenshot
 (You can add an image here later)
@@ -35,3 +49,4 @@ This is a simple frontend project created using HTML, CSS, and JavaScript.
 
 ## 📞 Contact
 Created by [Rajat Yadav](mailto:rajatyadav9555@gmail.com)
+© 2025 Rajat Kumar Yadav. All rights reserved.
